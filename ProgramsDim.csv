@@ -1,0 +1,178 @@
+ProgramCode,ProgramName,School
+AC,Accounting,DSB
+ACCT,Accounting,DSB
+AMST,American Studies,CAS
+AS,American Studies,CAS
+ASAH,American Studies,CAS
+ASEN,American Studies,CAS
+ASHI,American Studies,CAS
+ASMU,American Studies,CAS
+ASRS,American Studies,CAS
+ASSO,American Studies,CAS
+ASST,American Studies,CAS
+ASTA,American Studies,CAS
+ANTH,Anthropology,CAS
+AY,Anthropology,CAS
+AE,Applied Ethics,DSB
+AETH,Applied Ethics,DSB
+AR,Arabic,CAS
+AH,Art History,CAS
+AHST,Art History,CAS
+AN,Asian Studies,CAS
+BIEG,Bioengineering,SOE
+BEN,Bioengineering,SOE
+BI,Biology,CAS
+BIOL,Biology,CAS
+BL,Black Studies,CAS
+BLST,Black Studies,CAS
+BB,Business,DSB
+BU,Business,DSB
+BUSN,Business,DSB
+BA,Business Analytics,DSB
+BUAN,Business Analytics,DSB
+DATA,Business Analytics,SOE
+CH,Chemistry,CAS
+CHEM,Chemistry,CAS
+CHIN,Chinese,CAS
+CI,Chinese,CAS
+CL,Classical Studies,CAS
+CLST,Classical Studies,CAS
+CO,Communication,CAS
+COMM,Communication,CAS
+CPEG,Computer Engineering,SOE
+CR,Computer Engineering,SOE
+CPSC,Computer Science,SOE
+CS,Computer Science,SOE
+CN,Counseling,GED
+COUN,Counseling,GED
+EC,Economics,DSB
+ECON,Economics,DSB
+EDDL,Ed Leadership,GED
+EDTC,Ed Tech,GED
+ED,Education,GED
+EDUC,Education,GED
+MD,Educational Technology,GED
+ECE,Electrical and Computer Engineering,SOE
+ECEG,Electrical and Computer Engineering,SOE
+EE,Electrical Engineering,SOE
+ELEG,Electrical Engineering,SOE
+EG,Engineering,SOE
+ENGR,Engineering,SOE
+EN,English,CAS
+EEG,English for Engineers,SOE
+ENGL,English Writing,CAS
+ENW,English: Writing,CAS
+EV,Environmental Studies,CAS
+EVST,Environmental Studies,CAS
+FT,Family Therapy,GED
+FTM,"Film, Television, and Media Arts",CAS
+FTMA,"Film, Television, and Media Arts",CAS
+FI,Finance,DSB
+FNCE,Finance,DSB
+FE,Financial Engineering,SOE
+FYEX,First Year Experience,CAS
+FR,French,CAS
+FREN,French,CAS
+GS,General Studies,CAS
+GM,German,CAS
+GRMN,German,CAS
+GD,Graphic Design,CAS
+GDSN,Graphic Design,CAS
+GR,Greek,CAS
+GREK,Greek,CAS
+HLST,Health Studies,CAS
+HS,Health Studies,CAS
+HCAD,Healthcare Admin,CAS
+HE,Hebrew,CAS
+HEBR,Hebrew,CAS
+HI,History,CAS
+HIST,History,CAS
+HONR,Honors,CAS
+HR,Honors,CAS
+HA,Humanitarian Action,CAS
+HUAC,Humanitarian Action,CAS
+HU,Humanities,CAS
+HUMN,Humanities,CAS
+IS,Information Systems,DSB
+ISOM,Information Systems,DSB
+ID,Interdisciplinary,CAS
+IDSN,Interior Design,CAS
+IN,Interior Design,CAS
+IL,International Studies,CAS
+INTL,International Studies,CAS
+IRI,Irish Studies,CAS
+IT,Italian,CAS
+ITLN,Italian,CAS
+JA,Japanese,CAS
+LA,Latin,CAS
+LATN,Latin,CAS
+LAC,Latin American and Caribbean Studies,CAS
+LCST,Latin American and Caribbean Studies,CAS
+LE,Leadership Ethics Internship,CAS
+LBPS,Liberal and Professional Studies,CAS
+MG,Management,DSB
+MGMT,Management,DSB
+MGTN,Management of Technology,SOE
+MOT,Management of Technology,SOE
+MK,Marketing,DSB
+MKTG,Marketing,DSB
+MFTH,Marriage and Family Therapy,GED
+MA,Mathematics,CAS
+MATH,Mathematics,CAS
+ME,Mechanical Engineering,SOE
+MEEG,Mechanical Engineering,SOE
+MLLT,Modern Languages & Literature,CAS
+MU,Music,CAS
+MUSC,Music,CAS
+NS,Nursing,ESN
+NURS,Nursing,ESN
+NSAN,Nursing: Anesthesia,ESN
+NSMW,Nursing: Midwifery,ESN
+NUTR,Nutrition,ESN
+OM,Operations Management,DSB
+PJ,Peace and Justice Studies,CAS
+PH,Philosophy,CAS
+PHIL,Philosophy,CAS
+PHYS,Physics,CAS
+PS,Physics,CAS
+PSYG,Physics,CAS
+PO,Politics,CAS
+POLI,Politics,CAS
+PG,Portuguese,CAS
+PSYC,Psychology,CAS
+PY,Psychology,CAS
+PUAD,Public Admin,CAS
+MPA,Public Administration,CAS
+PB,Public Health,ESN
+PUBH,Public Health,CAS
+QA,Quantitative Analysis,DSB
+RLD,Reading and Language Development,GED
+RLDV,Reading and Language Development,GED
+RLST,Religious Studies,GED
+RS,Religious Studies,CAS
+RU,Russian,CAS
+RUSN,Russian,CAS
+RES,"Russian, Eastern European, and Central Asian Studies",CAS
+SWRG,Social Work (Grad),GED
+SWRK,Social Work (UG),GED
+SO,Sociology,CAS
+SOCI,Sociology,CAS
+SW,Software Engineering,SOE
+SWEG,Software Engineering,SOE
+SP,Spanish,CAS
+SPAN,Spanish,CAS
+STAT,Spanish,CAS
+SE,Special Education,GED
+SK,Special Education,GED
+SPED,Special Education,CAS
+SA,Studio Art,CAS
+SART,Studio Art,CAS
+WS,Summer High School,CAS
+SHS,Summer Pre College,CAS
+TAXN,Taxation,CAS
+TX,Taxation,DSB
+SL,TESOL and Bilingual Education,GED
+TA,Theatre,CAS
+THTR,Theatre,CAS
+TSLA,TSOL and Second Language Acquisition,GED
+WGSS,"Women, Gender & Sexuality Studies",DSB
